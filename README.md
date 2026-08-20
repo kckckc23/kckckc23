@@ -1,51 +1,90 @@
+<div align="center">
+
 # Karan Chauhan
 
-**Full Stack Engineer @ Dignifiedme.com**
-Developer & Architect building high-performance web applications and scalable digital products.
+### Full Stack Engineer
+**Developer & Architect** building high-performance applications and scalable digital products.
 
 [LinkedIn](https://linkedin.com/in/chauhankaran2305/) · [GitHub](https://github.com/kckckc23)
+
+</div>
 
 ---
 
 ## Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### Patram PDF
 
-A high-performance, 100% client-side PDF workspace built for processing PDF files directly in the browser.
+High-performance, 100% client-side PDF workspace for processing PDF files directly in the browser.
+
+</td>
+<td width="50%">
 
 ### Arcadeium
 
-A retro arcade platform featuring classic games including Snake, Tic-Tac-Toe, Pong, and Space Invaders.
+Retro arcade platform featuring classic games including Snake, Tic-Tac-Toe, Pong, and Space Invaders.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Next.js · React · TypeScript · Python**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,python" />
+
+</div>
 
 ---
 
-## GitHub Stats
+## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kckckc23&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://streak-stats.demolab.com?user=kckckc23&hide_border=true&theme=transparent" height="165" />
-</p>
+<div align="center">
+
+<a href="https://github.com/kckckc23">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kckckc23&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+</a>
+
+<a href="https://github.com/kckckc23">
+  <img height="170" src="https://streak-stats.demolab.com/?user=kckckc23&hide_border=true&theme=transparent" />
+</a>
+
+</div>
 
 ---
 
 ## Contributions
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kckckc23/kckckc23/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kckckc23/kckckc23/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kckckc23/kckckc23/output/github-snake.svg">
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kckckc23/kckckc23/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kckckc23/kckckc23/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/kckckc23/kckckc23/output/github-snake.svg"
+  />
+</picture>
+
+</div>
 
 ---
 
-<p align="center">
-  <sub>Building things, breaking things, and learning along the way.</sub>
-</p>
+<div align="center">
+
+<sub>Building. Architecting. Improving.</sub>
+
+</div>
