@@ -62,6 +62,7 @@ Retro arcade platform featuring classic games including Snake, Tic-Tac-Toe, Pong
 
 ## Contributions
 
+<!--
 <div align="center">
 
 <picture>
@@ -80,6 +81,7 @@ Retro arcade platform featuring classic games including Snake, Tic-Tac-Toe, Pong
 </picture>
 
 </div>
+-->
 
 ---
 
